@@ -3,10 +3,10 @@ import time
 import requests
 import smtplib
 from email.message import EmailMessage
-from dotenv import load_dotenv
 
-load_dotenv()
 ##############################
+#from dotenv import load_dotenv
+#load_dotenv()
 #USE FOR LOCAL TESTING
 #API_KEY = os.getenv("RAPIDAPI_KEY")
 #EMAIL_SENDER = os.getenv("EMAIL_SENDER")
